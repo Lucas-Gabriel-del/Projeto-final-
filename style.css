@@ -1,0 +1,61 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #636363;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
+    text-align: center;
+    background-color: #333;
+}
+ 
+ .titulo{
+    -webkit-text-stroke: 2px #000000;
+        color: #d99f41;
+        text-shadow:  0 0 5px #efde8a,
+                      0 0 10px #efde8a,
+                      0 0 15px #efde8a,
+                      0 0 20px #efde8a,
+                      0 0 25px #efde8a,
+                      0 0 30px #efde8a,
+                      0 0 35px #efde8a;
+          
+ }
+
+ .baner {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
+    text-align: center;
+    background-color: #333;
+}
+
+.texto{
+    text-align: center;
+}
+
+.imagems{
+    text-align: center;
+}
+
+.baner-principal{
+    object-fit: cover; 
+    display: block;
+
+}
+
+.texto2{
+    text-align: center;
+
+}
+
+ .Contatos{
+    text-align: center;
+ }
+
+  

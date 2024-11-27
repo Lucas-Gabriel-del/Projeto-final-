@@ -1,0 +1,1 @@
+window.alert("Seja Bem vindo a Sublime Fé");
